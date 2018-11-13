@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/Tauleos/think-view-art#readme",
   "dependencies": {
-    "art-template": "^4.13.1"
+    "art-template": "^4.13.2"
   },
   "devDependencies": {
     "ava": "^0.25.0",
